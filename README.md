@@ -1,10 +1,10 @@
-# <Your-Project-Title>
+# Horiseon Objectives and Benefits
 
 ## Description
 
 This webpage displays the benefits and objectives of search engine optimization, online brand recognition and social media marketing with Horiseon.
 
-##Webpage and Repository Links
+## Webpage and Repository Links
 Repository: https://github.com/ammann64/module-1-challenge
 Webpage: https://ammann64.github.io/module-1-challenge/
 ## Sample
